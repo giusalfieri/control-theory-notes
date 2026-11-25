@@ -1,0 +1,16 @@
+# LaTeX build files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
