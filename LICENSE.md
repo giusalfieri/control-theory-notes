@@ -12,7 +12,7 @@ under the
 
 ### Figures in the Lyapunov and PID slides
 
-The images inside `slides/lyapunov/lyapunov.pdf` and `slides/pid/pid.pdf` are stills
+The video stills inside `slides/lyapunov/lyapunov.pdf` and `slides/pid/pid.pdf` come
 from the YouTube videos of Giordano Scarciotti (channel *Prof Gio*) and remain his
 property. They are included with his permission and are **not** covered by the license
 above. To reuse them elsewhere, ask the author.

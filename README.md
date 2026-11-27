@@ -18,5 +18,5 @@ Found an error or have a suggestion? Open an issue.
 ## License
 
 Original content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Third-party material, such as the figures in the slides, belongs to its authors and is
+Third-party material, such as the video stills in the slides, belongs to its authors and is
 **not** covered by that license. See [LICENSE.md](LICENSE.md).

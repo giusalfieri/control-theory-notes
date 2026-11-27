@@ -10,7 +10,7 @@ video lectures, credited on its title slide.
 
 ## Credits
 
-The figures in the Lyapunov and PID decks are stills from the videos of
+The video stills in the Lyapunov and PID decks come from the videos of
 **Giordano Scarciotti** (Imperial College London, YouTube channel *Prof Gio*), used with
 his permission. They are not covered by the license of this repository: see
 [LICENSE.md](../LICENSE.md).
